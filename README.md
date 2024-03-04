@@ -50,7 +50,7 @@ After each player action, the ghosts move according to specified rules.
 
 1. Clone the repository: `git clone https://github.com/yourusername/pacman-game.git`
 2. Navigate to the project folder: `cd pacman-game`
-3. Modify the `py1.Ex` file to implement the required functions.
-4. Run the test script: `./py.check_1ex`
+3. Modify the `ex1.py` file to implement the required functions.
+4. Run the test script: `./ex1_check.py`
 
 Feel free to explore the code files for a deeper understanding of the implementation details. Good luck with your Pacman adventure!
