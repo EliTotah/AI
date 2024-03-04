@@ -41,10 +41,10 @@ After each player action, the ghosts move according to specified rules.
 
 ## Code Structure
 
-1. **py1.Ex:** File where main work is done. You need to modify the `PacmanProblem` class as described in the task description. The exercise will be tested using this file.
-2. **py.check_1ex:** Shell script containing functions to test the problem-solving code. Run this script to test your solution.
-3. **py.Search:** Contains search algorithms and the node class.
-4. **Other files:** Reference files remain unchanged.
+1. **ex1.py:** File where main work is done. 
+2. **ex1_check.py:** Shell script containing functions to test the problem-solving code. 
+3. **Search.py:** Contains search algorithms and the node class.
+4. **utils.py** Reference files remain unchanged.
 
 ## Getting Started
 
