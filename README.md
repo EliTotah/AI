@@ -23,9 +23,9 @@ The input describing the initial state of the game is a matrix (game) of size Nx
 ## Player Actions
 
 You have four player actions:
-- **R**: Shift to the right
+- **R**: Move right
 - **D**: Move down
-- **L**: Shift to the left
+- **L**: Move left
 - **U**: Move up
 
 After each player action, the ghosts move according to specified rules.
